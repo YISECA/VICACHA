@@ -2,9 +2,9 @@
 
 
 
-<h2>Caminata PARQUE ECOLÓGICO DISTRITAL DE MONTAÑA ENTRE NUBES SECTOR MOLINOS Domingo 10 de Septiembre de 2017</h2>
+<h2>Caminata RIO SAN FRANCISCO O VICACHA Domingo 01 de Octubre de 2017.</h2>
 
-<h3>Punto de encuentro: POLIDEPORTIVO DE MOLINOS II SECTOR - CALLE 48P SUR Cra 5 </h3>
+<h3>Punto de encuentro: Plazoleta del Rosario, frente a la estación Museo del Oro. </h3>
 
 <h3>Hora de salida: 8:00am</h3>
 

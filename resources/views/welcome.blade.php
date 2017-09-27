@@ -20,8 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>PARQUE ECOLÓGICO DISTRITAL DE MONTAÑA ENTRE NUBES
-                           SECTOR MOLINOS Domingo 10 de Septiembre de 2017</h3></div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3>RIO SAN FRANCISCO O VICACHA Domingo 01 de Octubre de 2017</h3></div>
 
                     </div>
 <br>
@@ -33,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/nubes.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/rio.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/nubes1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/rio1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/nubes2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/rio2.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -77,19 +76,22 @@
 
                         <h3>Ubicación</h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El Parque cuenta con una extensión de 626 Ha Ubicándose dentro de tres localidades, Con ingresos por varios sectores. Este sector tiene su ingreso por el barrio Molinos Localidad Rafael Uribe Uribe, lugar conocido como la piedra del amor, sendero que conduce a la entrada principal de la reserva y a la Administración del parque. </p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El sendero del río San Francisco o Vicachá está ubicado en la localidades de Candelaria y Santafé que marcaba el límite norte de Bogotá en sus primeros años de fundación. Nace en el páramo de Cruz Verde y baja por el canon entre los  cerros de Monserrate y Guadalupe. Al llegar a la ciudad en la Quinta de Bolívar es canalizado. En la actual avenida Jiménez con calle Sexta confluye por debajo de la tierra con el río San Agustín.</p>
                        
                         <h3>Descripción del recorrido </h3>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en el polideportivo Molinos II Sector donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones propias del recorrido y necesarias para su ejecucion dando inicio a la caminata.<br>
-                        Se llega a la piedra del amor y justo al pasar la quebrada La Nutria se ingresa a los predios del parque. Sendero en ascenso moderado demarcado y señalizado que conduce a la entrada principal del parque y al sector conocido como La Administración. Desde allí se cuenta con varios senderos que conducen a la parte alta del parque, fabulosos miradores y vegetación de subparamo nos esperan.</p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en la Plazoleta del Rosario ubicada frente a la estación Museo del oro, donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones asi como las prohibiciones y restricciones propias del recorrido y necesarias para su ejecucion. Se dará inicio a la caminata desde la carrera 7ª con avenida Jimenez desplazándose hacia el oriente por el eje ambiental hasta llegar a la avenida circunvalar e ingresando a los predios del acueducto. En este sector se construyó un sendero por en bosque de niebla que conduce al mirador donde se puede apreciar el centro de la ciudad. El sendero en descenso nos lleva a la universidad distrital y de allí a la avenida Jiménez con carrera 3ª donde finaliza la caminata.</p>
 
-                        <h3>Durante el recorrido se visitaran los siguientes atractivos:</h3>
+                        <h3>Durante el recorrido se visitaran los siguientes aspectos:</h3>
                         <ul class="ul_inicio">
                             <font style="font-size: 11pt; line-height: 25px;">
-                            <li>Administración, Aulas y espacios de interpretación ambiental</li>
-                            <li>Miradores </li>
-                            <li>Diferentes senderos </li>
+                            <li>Mirador </li>
+                            <li>Históricos </li>
+                            <li>Culturales</li>
+                            <li>Arquitectónicos</li>
+                            <li>Hídricos</li>
+                            <li>Ambientales </li>
+                            <li>Ecosistema de niebla y sub - páramo</li>
                             </font>
                         </ul>
                         <br>
@@ -110,8 +112,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>POLIDEPORTIVO DE MOLINOS II SECTOR<br>
-                                               CALLE 48P SUR Cra 5</p>
+                                            <p>Plazoleta del Rosario, frente a la estación Museo del Oro.</p>
 
                                         </td>
 
@@ -127,7 +128,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 10 de Septiembre de 2017</p>
+                                            <p>Domingo 01 de Octubre de 2017</p>
 
                                         </td>
 
@@ -206,7 +207,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Entre 9° a 18°C </p>
+                                            <p>14°C </p>
 
                                         </td>
 
@@ -221,29 +222,12 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>3.000 m.s.n.m</p>
+                                            <p>2.800 m.s.n.m</p>
 
                                         </td>
 
                                     </tr> 
-                                    <tr valign="top">
-
-                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>Como llegar</p>
-
-                                        </td>
-
-                                        <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
-
-                                            <p>- <strong>Transmilenio:</strong> Estación Molinos <br><br>
-                                               - Alimentador Molinos 4-3<br><br>
-                                               - 4ta parada <br><br>
-                                               - <strong>Sitp:</strong> 194 – 540 – 614 - 661</p>
-
-                                        </td>
-
-                                    </tr>                         
+                       
 
                         </table></center></font>
 
